@@ -11,8 +11,8 @@
   },
   "packageManager": "pnpm@10",
   "stackblitz": {
-    "installDependencies": true,
-    "startCommand": "pnpm dev"
+    "installDependencies": false,
+    "startCommand": ""
   },
   "dependencies": {
     "react": "^19.2.0",
